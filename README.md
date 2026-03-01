@@ -1,4 +1,4 @@
-# 🎓 Graduate Admission Prediction using Machine Learning
+# 🎓 Graduate Admission Prediction
 
 ## 📌 Overview
 This project predicts the probability of a student's admission into graduate programs based on academic performance and profile attributes using Machine Learning techniques.
